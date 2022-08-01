@@ -1,4 +1,4 @@
-# Alura - Solução do Projeto de Acessibilidade Web da Apeperia Alura
+# Alura - Solução do Projeto de Acessibilidade Web da Apeperia
 
 Codificação da parte de acessibilidade de um projeto disponibilizado durante o curso de Front-end da [Alura](https://www.alura.com.br/formacao-front-end).
 
