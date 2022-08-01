@@ -34,8 +34,8 @@ O desafio foi construir a parte de acessibilidade web deste projeto. Todo os usu
 
 ### Links
 
-- URL da solução: [Index]()
-- URL do site: [Site]()
+- URL da solução: [Index](https://github.com/beatrizslan/Projeto-Alura-Acessibilidade-Web/blob/main/docs/index.html)
+- URL do site: [Site](https://beatrizslan.github.io/Projeto-Alura-Acessibilidade-Web/)
 
 ## Meu processo
 
@@ -82,7 +82,7 @@ O desafio foi construir a parte de acessibilidade web deste projeto. Todo os usu
 
 ### Autor
 
-- Website - [Beatriz Slan | Alura]()
+- Website - [Beatriz Slan | Alura](https://beatrizslan.github.io/Projeto-Alura-Acessibilidade-Web/)
 - Linkedin - [in/beatriz-slan](https://www.linkedin.com/in/beatriz-slan-2324a4173/)
 
 
